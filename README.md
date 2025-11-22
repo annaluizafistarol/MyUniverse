@@ -35,12 +35,7 @@ https://user-images.githubusercontent.com/100868704/212992839-7e8bd944-0862-463e
 <br>
 
 ## 🌺✨ Forma de contato
-
-<div style="display: inline_block">
-  <img align="left" alt="Anna-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202301/707090_N2E3YlxN.png"><br>
-  Caso tenha alguma sugestão ou queira entrar em contato, fico a disposição 🥰💖
-</div><br><br>
 <div>
   <a href = "mailto:luizafistarol@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anna-luiza-camargo-fistarol/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/anna-luiza-fistarol/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
